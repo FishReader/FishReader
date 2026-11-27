@@ -1,6 +1,7 @@
 # FishReader
 
 Select text anywhere on your Mac, press a shortcut (default ⌃⌥S) and hear it read aloud with Fish Audio's S2.1 Pro voice.
+![screenshot of FishReader](fishreader_screenshot.png)
 
 ## Install
 
